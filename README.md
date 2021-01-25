@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammet Dilmaç</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammetdilmac" alt="muhammetdilmac" /> </p>
-
 - 🔭 I’m currently working on [Buck AI](https://www.buck.ai)
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/muhammetdilmac](https://www.github.com/muhammetdilmac)
